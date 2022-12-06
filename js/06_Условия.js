@@ -3,8 +3,8 @@
 
 if (4 == 9) {
     console.log('Ok');
-    
-} else{
+
+} else {
     console.log('error');
 
 }
@@ -13,19 +13,19 @@ if (4 == 9) {
 // const num = 50;
 // if (num < 49) {
 //     console.log('error');
-    
+
 // } else if (num > 100) { // запись else if говорит о том что проверяется еще одно условие
 //     console.log('Много');
-    
+
 // } else {
 //     console.log('ok');
-    
+
 // }
 
 
 
 // тернарный оператор это знак ?. Такая запись позволяет экономно записать код. В тернарном операторе участвуют сразу три условия (он единственный в JS)
-(num === 50) ? console.log('ok'): console.log('error');
+// (num === 50) ? console.log('ok'): console.log('error');
 
 
 
